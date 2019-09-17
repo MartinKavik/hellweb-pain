@@ -19,3 +19,7 @@ Or contact me - martin@hellweb.app
 </p>
 
 > `Hellweb` project will be a collection of Rust libraries and apps which solve your pain points and explore new ideas.
+
+---
+
+**Note**: Hellweb's libraries will be tested and used in project [MartinKavik/kavik.cz](https://github.com/MartinKavik/kavik.cz). There is also a roadmap.
